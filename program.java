@@ -13,6 +13,7 @@ public class Bicycle {
         gear = startGear;
         cadence = startCadence;
         speed = startSpeed;
+	janek
     }
         
     // the Bicycle class has
@@ -20,6 +21,7 @@ public class Bicycle {
     // four methods
     public void setCadence(int newValue) {
         cadence = newValue;
+	janek
     }
         
     public void setGear(int newValue) {
