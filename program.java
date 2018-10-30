@@ -1,4 +1,5 @@
 
+#komentarz
 public class Bicycle {
         
     // the Bicycle class has
@@ -26,6 +27,7 @@ public class Bicycle {
         
     public void setGear(int newValue) {
         gear = newValue;
+	janek
     }
         
     public void applyBrake(int decrement) {
