@@ -16,6 +16,7 @@ public class Bicycle {
     }
         
     // the Bicycle class has
+    // new comment
     // four methods
     public void setCadence(int newValue) {
         cadence = newValue;
